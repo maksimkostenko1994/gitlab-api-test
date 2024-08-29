@@ -1,0 +1,1646 @@
+[
+  {
+    "title": "Merge branch 'PE-60' of git.inf.genios.de:genios/atlas into develop",
+    "ticket": "PE-60",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-60",
+    "project": "atlas"
+  },
+  {
+    "title": "PE-60 get thing working with production DB",
+    "ticket": "PE-60",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-60",
+    "project": "atlas"
+  },
+  {
+    "title": "PE-60 fix logback-spring.xml",
+    "ticket": "PE-60",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-60",
+    "project": "atlas"
+  },
+  {
+    "title": "PE-60 get tests and swagger working again",
+    "ticket": "PE-60",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-60",
+    "project": "atlas"
+  },
+  {
+    "title": "PE-60 more java 21 and spring boot 3 and get tests working",
+    "ticket": "PE-60",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-60",
+    "project": "atlas"
+  },
+  {
+    "title": "PN-188 marking sofort methods as Deprecated for later removal (when they have been removed from facade)",
+    "ticket": "PN-188",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-188",
+    "project": "atlas"
+  },
+  {
+    "title": "PE-60: update to spring boot 3.3.1 / java 21",
+    "ticket": "PE-60",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-60",
+    "project": "atlas"
+  },
+  {
+    "title": "PE-64 update spring boot, messageBus and improve tests. fix test coverage exclude that disabled all coverage checks!! (\"de.genios.hades.**\")",
+    "ticket": "PE-64",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-64",
+    "project": "hades"
+  },
+  {
+    "title": "PN-187 use released cache-control and directly specify org.json",
+    "ticket": "PN-187",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-187",
+    "project": "hades"
+  },
+  {
+    "title": "PN-187 Counter5 start date for fazbib/fazcorp",
+    "ticket": "PN-187",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-187",
+    "project": "hades"
+  },
+  {
+    "title": "NPE avoiding",
+    "ticket": "",
+    "link": "https://gbi-genios.atlassian.net/browse/",
+    "project": "hades"
+  },
+  {
+    "title": "Merge branch 'PE-101' into 'develop'",
+    "ticket": "PE-101",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-101",
+    "project": "ash"
+  },
+  {
+    "title": "Merge remote-tracking branch 'origin/PE-101' into PE-101",
+    "ticket": "PE-101",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-101",
+    "project": "ash"
+  },
+  {
+    "title": "Merge branch 'PE-101' into 'develop'",
+    "ticket": "PE-101",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-101",
+    "project": "ash"
+  },
+  {
+    "title": "Merge branch 'PE-101' into 'develop'",
+    "ticket": "PE-101",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-101",
+    "project": "ash"
+  },
+  {
+    "title": "PE-63 refactor sendMail for better testing. more test coverage -> ensure minimum test coverage! clean up various warnings",
+    "ticket": "PE-63",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-63",
+    "project": "artemis"
+  },
+  {
+    "title": "PE-63 fix snapshots for nexus",
+    "ticket": "PE-63",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-63",
+    "project": "artemis"
+  },
+  {
+    "title": "PE-63 tidy up some warnings",
+    "ticket": "PE-63",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-63",
+    "project": "artemis"
+  },
+  {
+    "title": "PE-63 update to java21+spring boot 3.3.1.",
+    "ticket": "PE-63",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-63",
+    "project": "artemis"
+  },
+  {
+    "title": "Merge branch 'PE-56/table-migration-from-geniosWeb' into develop",
+    "ticket": "PE-56",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-56",
+    "project": "athena"
+  },
+  {
+    "title": "Merge branch 'PE-53_dochistory_refactor' into 'develop'",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "PE-215: added test cases and documents",
+    "ticket": "PE-215",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-215",
+    "project": "athena"
+  },
+  {
+    "title": "Merge branch 'PE-53_dochistory_refactor' into 'develop'",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "PE-215: added more endpoints for bookmarks",
+    "ticket": "PE-215",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-215",
+    "project": "athena"
+  },
+  {
+    "title": "Merge branch 'PE-53_dochistory_refactor' into 'develop'",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "PE-53: updated messagebus",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "Merge branch 'PE-53_dochistory_refactor' into 'develop'",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "PE-53: added creation date to table",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/athena into PE-53_dochistory_refactor",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "PE-53: removed validator",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/athena into PE-53_dochistory_refactor",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "PE-78 tidy up warnings",
+    "ticket": "PE-78",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-78",
+    "project": "athena"
+  },
+  {
+    "title": "PE-78 upgrade to SpringBoot 3.3.1 & Java 21",
+    "ticket": "PE-78",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-78",
+    "project": "athena"
+  },
+  {
+    "title": "PE-53: corrected merge logic for bookmarks and document history",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "PE-53: unused imports",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "PE-53: removed documenthistory, bookmarks can be used instead to store document history data",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "athena"
+  },
+  {
+    "title": "PE-35: add CreateDate to Bookmark",
+    "ticket": "PE-35",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-35",
+    "project": "athena"
+  },
+  {
+    "title": "Merge remote-tracking branch 'origin/PE-148' into develop",
+    "ticket": "PE-148",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-148",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'PE-215' into 'develop'",
+    "ticket": "PE-215",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-215",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'develop' of https://infra-gitlab.infra.genios.de/genios/hermes into PE-215",
+    "ticket": "PE-215",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-215",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-215: added Responsestatus",
+    "ticket": "PE-215",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-215",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-148: Micrometer Tracing",
+    "ticket": "PE-148",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-148",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'PE-53_remove_doc_history_code' into 'develop'",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-215: added documentations",
+    "ticket": "PE-215",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-215",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'PE-53_remove_doc_history_code' into 'develop'",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-215: updated bookmarks endpoints",
+    "ticket": "PE-215",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-215",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'PE-53_remove_doc_history_code' into 'develop'",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-53: updated url",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'PE-53_remove_doc_history_code' into 'develop'",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-53: updated messagebus",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'PE-53_remove_doc_history_code' into 'develop'",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-53: added swagger annotations",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/hermes into PE-53_remove_doc_history_code",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'PE-2/get-solutions' into develop",
+    "ticket": "PE-2",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-2",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'PE-1_solution_crud_operations' into 'develop'",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-1: added solutionsController",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/hermes into PE-1_solution_crud_operations",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-183 fix tests (link to new swagger ui)",
+    "ticket": "PE-183",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-183",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-183 fix tests (link to new swagger ui)",
+    "ticket": "PE-183",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-183",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-183 meinGenios menu: fix tests",
+    "ticket": "PE-183",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-183",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-183 meinGenios menu depends only and permissions and does not know about solution names. Fixed some conditions for loggedIn/loggedOut",
+    "ticket": "PE-183",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-183",
+    "project": "Hermes"
+  },
+  {
+    "title": "PN-147 add email to endpoint",
+    "ticket": "PN-147",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-147",
+    "project": "Hermes"
+  },
+  {
+    "title": "PN-147 fix test and update security",
+    "ticket": "PN-147",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-147",
+    "project": "Hermes"
+  },
+  {
+    "title": "PN-147 added tests for MeinGenios menu items",
+    "ticket": "PN-147",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-147",
+    "project": "Hermes"
+  },
+  {
+    "title": "PN-188 sofort payment no longer available",
+    "ticket": "PN-188",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-188",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-147 tests: renaming",
+    "ticket": "PE-147",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-147",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-147 tests: renaming",
+    "ticket": "PE-147",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-147",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-147 tests for MyGeniosController (mockito problems)",
+    "ticket": "PE-147",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-147",
+    "project": "Hermes"
+  },
+  {
+    "title": "PN-185: new message bus",
+    "ticket": "PN-185",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-185",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-147 changes for new spring boot version",
+    "ticket": "PE-147",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-147",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-147 enable tests to run with InMemoryDriver (only Samson tests are still failing)",
+    "ticket": "PE-147",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-147",
+    "project": "Hermes"
+  },
+  {
+    "title": "PN-185: new version 81",
+    "ticket": "PN-185",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-185",
+    "project": "Hermes"
+  },
+  {
+    "title": "PN-185: handling one more exception",
+    "ticket": "PN-185",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-185",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-147 myGenios menuItems endpoint",
+    "ticket": "PE-147",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-147",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-53: refactored facade for merging bookmarks and document history",
+    "ticket": "PE-53",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-53",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-2: added 2 endpoints for getting solutions",
+    "ticket": "PE-2",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-2",
+    "project": "Hermes"
+  },
+  {
+    "title": "PE-1: CRUD operation for solution",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "Hermes"
+  },
+  {
+    "title": "PN-139: v.80",
+    "ticket": "PN-139",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-139",
+    "project": "Hermes"
+  },
+  {
+    "title": "PN-139: log counter query",
+    "ticket": "PN-139",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-139",
+    "project": "Hermes"
+  },
+  {
+    "title": "Merge branch 'PE-1_synchronize_solutions' into 'develop'",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "charon"
+  },
+  {
+    "title": "PE-1: added messagelistener",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'PE-1_synchronize_solutions' into 'develop'",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "charon"
+  },
+  {
+    "title": "PE-1: added test class and Requestbody",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/charon into PE-1_synchronize_solutions",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'PE-164_add_attributes_user_account' into 'develop'",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "PE-164: saved samson filepath in inventory_custom_logo and inventory_picture for reference",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "PE-164: updated tests",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "PE-164: updated variable types",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "PE-164: updated variable types",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "PE-164: updated variable types",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "PE-164: removed sysout",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "PE-164: import inventory settings for wiso",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/charon into PE-164_add_attributes_user_account",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'PE-79_upgrade_java_21_spring_3' into 'develop'",
+    "ticket": "PE-79",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-79",
+    "project": "charon"
+  },
+  {
+    "title": "PE-79: fixed solutionjob for spring 3.3.0",
+    "ticket": "PE-79",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-79",
+    "project": "charon"
+  },
+  {
+    "title": "PE-79: test data",
+    "ticket": "PE-79",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-79",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/charon into PE-164_add_attributes_user_account",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'PE-79_upgrade_java_21_spring_3' into 'develop'",
+    "ticket": "PE-79",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-79",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/charon into PE-79_upgrade_java_21_spring_3",
+    "ticket": "PE-79",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-79",
+    "project": "charon"
+  },
+  {
+    "title": "PE-79: @nonnull annotation",
+    "ticket": "PE-79",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-79",
+    "project": "charon"
+  },
+  {
+    "title": "PE-79: updated classes for swagger",
+    "ticket": "PE-79",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-79",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'PE-79_upgrade_java_21_spring_3' of http://git.inf.genios.de/genios/charon into PE-164_add_attributes_user_account",
+    "ticket": "PE-79",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-79",
+    "project": "charon"
+  },
+  {
+    "title": "PE-164: added partnerstatstool",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "charon"
+  },
+  {
+    "title": "PE-183 meinGenios: solutionSetting showSolvency already exists",
+    "ticket": "PE-183",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-183",
+    "project": "charon"
+  },
+  {
+    "title": "PE-183 meinGenios: add hard-coded solution settings (not in the mySQL)",
+    "ticket": "PE-183",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-183",
+    "project": "charon"
+  },
+  {
+    "title": "PE-183 add jacoco coverage check to Charon. temporarily exclude most classes until tests are written.",
+    "ticket": "PE-183",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-183",
+    "project": "charon"
+  },
+  {
+    "title": "PE-181: new version 0.0.42 and fixing tests",
+    "ticket": "PE-181",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-181",
+    "project": "charon"
+  },
+  {
+    "title": "PE-181: web user API",
+    "ticket": "PE-181",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-181",
+    "project": "charon"
+  },
+  {
+    "title": "PE-181: more migration data",
+    "ticket": "PE-181",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-181",
+    "project": "charon"
+  },
+  {
+    "title": "PE-37: fixed tests and Query in UserAccountQueryProviderFactory",
+    "ticket": "PE-37",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-37",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'PE-37/add-fields-to-user' into 'develop'",
+    "ticket": "PE-37",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-37",
+    "project": "charon"
+  },
+  {
+    "title": "PE-1",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "charon"
+  },
+  {
+    "title": "PE-37: added 3 new fields to SolutionUser and 2 new fields to SolutionSetting, also adjusted migration to this changes",
+    "ticket": "PE-37",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-37",
+    "project": "charon"
+  },
+  {
+    "title": "PE-162 marking deprecated fields. these are not needed by Demeter",
+    "ticket": "PE-162",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-162",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/charon into PE-1_synchronize_solutions",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "charon"
+  },
+  {
+    "title": "Merge branch 'PE-2/solution-endpoints' into develop",
+    "ticket": "PE-2",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-2",
+    "project": "charon"
+  },
+  {
+    "title": "PE-79: upgraded charon",
+    "ticket": "PE-79",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-79",
+    "project": "charon"
+  },
+  {
+    "title": "PE-1: added solution CRUD operations",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "charon"
+  },
+  {
+    "title": "PE-2: added tests and exception for ebib to be returned from getAllSolutionsWithoutSubdomains",
+    "ticket": "PE-2",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-2",
+    "project": "charon"
+  },
+  {
+    "title": "PE-1: added solution CRUD operations",
+    "ticket": "PE-1",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-1",
+    "project": "charon"
+  },
+  {
+    "title": "Merge remote-tracking branch 'origin/PE-2/solution-endpoints' into PE-1_synchronize_solutions",
+    "ticket": "PE-2",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-2",
+    "project": "charon"
+  },
+  {
+    "title": "PE-2: added SolutionController with get methods, added deactivated flag to Solution and added ImportSolutionsJob",
+    "ticket": "PE-2",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-2",
+    "project": "charon"
+  },
+  {
+    "title": "PE-74 - update message bus to spring boot 3 version and fix some search options",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - fix tests for change in Timezone handling in Range query",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - use builder library instead of local builders, fix tests and coverage",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - get termsAggregation working properly",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - get topHitsAggregation working",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - add error handling for es errors e.g. syntax errors",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - get hibernate to work with old DB etc",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - get tests working and reorganise some code",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - use ElasticsearchClient and get everything to compile",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - start our own building query classes",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - start our own building query classes",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - get swagger working",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - get tests working",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-74 - get it to compile",
+    "ticket": "PE-74",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-74",
+    "project": "Hera"
+  },
+  {
+    "title": "PE-148: update messagebus version",
+    "ticket": "PE-148",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-148",
+    "project": "Hephaestus"
+  },
+  {
+    "title": "Merge remote-tracking branch 'origin/PE-148-Micrometer-Tracing' into develop",
+    "ticket": "PE-148",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-148",
+    "project": "Hephaestus"
+  },
+  {
+    "title": "PE-148: change pom dependencies to support Micrometer Tracing",
+    "ticket": "PE-148",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-148",
+    "project": "Hephaestus"
+  },
+  {
+    "title": "PE-84 update to spring boot 3.3.1 / java 21",
+    "ticket": "PE-84",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-84",
+    "project": "Hephaestus"
+  },
+  {
+    "title": "PE-84 update to spring boot 3.3.1 / java 21",
+    "ticket": "PE-84",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-84",
+    "project": "Hephaestus"
+  },
+  {
+    "title": "PE-84 get tests to run when offline",
+    "ticket": "PE-84",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-84",
+    "project": "Hephaestus"
+  },
+  {
+    "title": "PN-113: LECB",
+    "ticket": "PN-113",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-113",
+    "project": "Hephaestus"
+  },
+  {
+    "title": "PE-69: Migrating Triton Java 21. Fixing dependencies to make integration tests work.",
+    "ticket": "PE-69",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-69",
+    "project": "Triton"
+  },
+  {
+    "title": "PE-69: Migrating Triton Java 21. Changed to Spring Boot 3.3; Updates; Migrate Swagger to Springdocu Open API",
+    "ticket": "PE-69",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-69",
+    "project": "Triton"
+  },
+  {
+    "title": "PE-69: Migrating Triton Java 21. Changed to Java 21",
+    "ticket": "PE-69",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-69",
+    "project": "Triton"
+  },
+  {
+    "title": "PE-69: Migrating Triton Java 21. First: Update to latest 2.x Spring Boot version",
+    "ticket": "PE-69",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-69",
+    "project": "Triton"
+  },
+  {
+    "title": "PE-69:  Make sure basic tests are running before migrating to Java 21",
+    "ticket": "PE-69",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-69",
+    "project": "Triton"
+  },
+  {
+    "title": "Merge branch 'PE-184-add-small-logo' into 'develop'",
+    "ticket": "PE-184",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-184",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-160: added sorting by id and solution name",
+    "ticket": "PE-160",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-160",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-160: added translation strings",
+    "ticket": "PE-160",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-160",
+    "project": "aspen"
+  },
+  {
+    "title": "Merge branch 'PE-89-129-struktur' into 'develop'",
+    "ticket": "PE-89",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-89",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-160: fixed linting errors",
+    "ticket": "PE-160",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-160",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-160: added nav item for new version",
+    "ticket": "PE-160",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-160",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-160: disabled unused nav links",
+    "ticket": "PE-160",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-160",
+    "project": "aspen"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/aspen into PE-89-129-struktur",
+    "ticket": "PE-89",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-89",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-160: added search functionality",
+    "ticket": "PE-160",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-160",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-160: added component to display list of solutions",
+    "ticket": "PE-160",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-160",
+    "project": "aspen"
+  },
+  {
+    "title": "Merge branch 'PE-102' into 'develop'",
+    "ticket": "PE-102",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-102",
+    "project": "aspen"
+  },
+  {
+    "title": "Merge branch 'PE-102' into 'develop'",
+    "ticket": "PE-102",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-102",
+    "project": "aspen"
+  },
+  {
+    "title": "Merge branch 'PE-102' into 'develop'",
+    "ticket": "PE-102",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-102",
+    "project": "aspen"
+  },
+  {
+    "title": "Merge branch 'PE-102' into 'develop'",
+    "ticket": "PE-102",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-102",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-98: Added popup to add solution",
+    "ticket": "PE-98",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-98",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-98: Added AddEditSolution component",
+    "ticket": "PE-98",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-98",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-98: small improvements",
+    "ticket": "PE-98",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-98",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-98: improved routing structure",
+    "ticket": "PE-98",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-98",
+    "project": "aspen"
+  },
+  {
+    "title": "Merge branch 'PE-89-129-struktur' of http://git.inf.genios.de/genios/aspen into PE-89-129-struktur",
+    "ticket": "PE-89",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-89",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-98: added routing and navigation for new structure",
+    "ticket": "PE-98",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-98",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-83: update spring boot to 3.3 and java to 21",
+    "ticket": "PE-83",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-83",
+    "project": "aspen"
+  },
+  {
+    "title": "PE-18 fix uploading of checkbox (e.g. publicResource) so that \"1\" is also accepted for \"true\"",
+    "ticket": "PE-18",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-18",
+    "project": "samson"
+  },
+  {
+    "title": "PE-36 changed endpoint url in facade",
+    "ticket": "PE-36",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-36",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PE-38-web-user-registration' into 'develop'",
+    "ticket": "PE-38",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-38",
+    "project": "demeter"
+  },
+  {
+    "title": "PE-36 changed return value of registerWebUser endpoint",
+    "ticket": "PE-36",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-36",
+    "project": "demeter"
+  },
+  {
+    "title": "PE-36 added endpoint for WebUser registration",
+    "ticket": "PE-36",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-36",
+    "project": "demeter"
+  },
+  {
+    "title": "PE-33 added searchHistory endpoint and method in service for it",
+    "ticket": "PE-33",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-33",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PE-184-add-small-logo' into 'develop'",
+    "ticket": "PE-184",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-184",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PN-205' of git.inf.genios.de:genios/demeter into develop",
+    "ticket": "PN-205",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-205",
+    "project": "demeter"
+  },
+  {
+    "title": "PN-205 correct and simplify em controller for full search results from monitoring email",
+    "ticket": "PN-205",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-205",
+    "project": "demeter"
+  },
+  {
+    "title": "PN-213 clear navigation cache for user if mySources are modified and update bubbles",
+    "ticket": "PN-213",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-213",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge remote-tracking branch 'origin/PE-4' into develop",
+    "ticket": "PE-4",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-4",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PE-15' of git.inf.genios.de:genios/demeter into develop",
+    "ticket": "PE-15",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-15",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'master' of git.inf.genios.de:genios/demeter into PE-15",
+    "ticket": "PE-15",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-15",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PE-178-getUserAccount-exception' into 'develop'",
+    "ticket": "PE-178",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-178",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PN-188-display-payment-methods-dynamically' into 'master'",
+    "ticket": "PN-188",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-188",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PE-48-add-user-bookmarks-component' into 'develop'",
+    "ticket": "PE-48",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-48",
+    "project": "demeter"
+  },
+  {
+    "title": "PE-48: removed console logs",
+    "ticket": "PE-48",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-48",
+    "project": "demeter"
+  },
+  {
+    "title": "PE-48: added mein genios route to settings",
+    "ticket": "PE-48",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-48",
+    "project": "demeter"
+  },
+  {
+    "title": "PE-48: added more vue components",
+    "ticket": "PE-48",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-48",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PE-153_add_switch_meingenios' into 'develop'",
+    "ticket": "PE-153",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-153",
+    "project": "demeter"
+  },
+  {
+    "title": "PE-153: modified uri",
+    "ticket": "PE-153",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-153",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge remote-tracking branch 'origin/PE-153_add_switch_meingenios' into PE-153_add_switch_meingenios",
+    "ticket": "PE-153",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-153",
+    "project": "demeter"
+  },
+  {
+    "title": "PN-153: removed console",
+    "ticket": "PN-153",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-153",
+    "project": "demeter"
+  },
+  {
+    "title": "PN-153: added meingenios tab in login dropdown",
+    "ticket": "PN-153",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-153",
+    "project": "demeter"
+  },
+  {
+    "title": "PE-188 remove sofort",
+    "ticket": "PE-188",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-188",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PE-46-wrong-theme-toggle-display' into 'develop'",
+    "ticket": "PE-46",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-46",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PE-42-console-error' into 'develop'",
+    "ticket": "PE-42",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-42",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'PE-15' of git.inf.genios.de:genios/demeter into develop",
+    "ticket": "PE-15",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-15",
+    "project": "demeter"
+  },
+  {
+    "title": "Merge branch 'master' of git.inf.genios.de:genios/demeter into PE-15",
+    "ticket": "PE-15",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-15",
+    "project": "demeter"
+  },
+  {
+    "title": "PE-200 revert AuthBean serialVersionUID as class should be compatible and there were issues on deployment",
+    "ticket": "PE-200",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-200",
+    "project": "demeter"
+  },
+  {
+    "title": "PE-237: external page registration functionality for registration form",
+    "ticket": "PE-237",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-237",
+    "project": "vincentzweb"
+  },
+  {
+    "title": "PE-14 and PE-34: add method to encode string to compare with SessionContext.getCurrentHttpRequest().getRequestURI()",
+    "ticket": "PE-14",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-14",
+    "project": "vincentzweb"
+  },
+  {
+    "title": "PN-100: added changes for footer",
+    "ticket": "PN-100",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-100",
+    "project": "vincentzweb"
+  },
+  {
+    "title": "PN-107 new movingImage password (is for a short time valid in parallel with old user/pw so can be deployed anytime)",
+    "ticket": "PN-107",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-107",
+    "project": "vincentzweb"
+  },
+  {
+    "title": "PN-100: rollback CMS",
+    "ticket": "PN-100",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-100",
+    "project": "vincentzweb"
+  },
+  {
+    "title": "Revert \"mvp: disable smtp appenders\"",
+    "ticket": "",
+    "link": "https://gbi-genios.atlassian.net/browse/",
+    "project": "vincentzweb"
+  },
+  {
+    "title": "Revert \"mvp\"",
+    "ticket": "",
+    "link": "https://gbi-genios.atlassian.net/browse/",
+    "project": "vincentzweb"
+  },
+  {
+    "title": "Merge branch 'PE-164_upload_inventory_images' into 'develop'",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "geniosweb"
+  },
+  {
+    "title": "Merge branch 'develop' of http://git.inf.genios.de/genios/geniosWeb into PE-164_upload_inventory_images",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-228: fixing the dropdown, show the producer code instead of id",
+    "ticket": "PN-228",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-228",
+    "project": "geniosweb"
+  },
+  {
+    "title": "Merge branch 'PN-208/cmp-integration'",
+    "ticket": "PN-208",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-208",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-208 added correct URL",
+    "ticket": "PN-208",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-208",
+    "project": "geniosweb"
+  },
+  {
+    "title": "Merge branch 'master' of http://git.inf.genios.de/genios/geniosWeb into PE-164_upload_inventory_images",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-208 exchanged url and some scripts for cmp",
+    "ticket": "PN-208",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-208",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PE-164: upload images to samson",
+    "ticket": "PE-164",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-164",
+    "project": "geniosweb"
+  },
+  {
+    "title": "Merge branch 'PN-211_change_agb_datenschutz_urls' into 'mvp'",
+    "ticket": "PN-211",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-211",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-211: corrected url",
+    "ticket": "PN-211",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-211",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-190: adisbms scope only for specific solutions",
+    "ticket": "PN-190",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-190",
+    "project": "geniosweb"
+  },
+  {
+    "title": "Merge branch 'PN-211_changed_urls' into 'mvp'",
+    "ticket": "PN-211",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-211",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-211: corrected url",
+    "ticket": "PN-211",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-211",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-211: updated agb and datenshutz url changes",
+    "ticket": "PN-211",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-211",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-216: FAZ include FAMH in all-search",
+    "ticket": "PN-216",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-216",
+    "project": "geniosweb"
+  },
+  {
+    "title": "Merge branch 'PN-211_agb_datenshutz_url' into 'mvp'",
+    "ticket": "PN-211",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-211",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-211: updated agb and datenshutz url changes",
+    "ticket": "PN-211",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-211",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-210: fix limit usage filter",
+    "ticket": "PN-210",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-210",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PE-181: store more data to charon",
+    "ticket": "PE-181",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-181",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-206: Fix AGB for wiso dialog",
+    "ticket": "PN-206",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-206",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PE-45: Counter5 -- fix usage of consortium-user + refactorings",
+    "ticket": "PE-45",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-45",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-203:  Counter 5; show Sushi information again",
+    "ticket": "PN-203",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-203",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-202:  Counter 5; fix permission problem",
+    "ticket": "PN-202",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-202",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-199 one type fix. the rest is only refactoring: moving the DB and searchPermission queries to ajax calls so that the doc stats page renders fast.",
+    "ticket": "PN-199",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-199",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PE-45: Counter 5 Dropdown-Consortium fixed",
+    "ticket": "PE-45",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-45",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-199 proxy Hades CSV reports. (re-use code). do proper validation for uploaded CSV file (instead of downloading a CSV with an error msg).",
+    "ticket": "PN-199",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-199",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-199 proxy Hades CSV reports. (re-use code). do proper validation for uploaded CSV file (instead of downloading a CSV with an error msg).",
+    "ticket": "PN-199",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-199",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-196 change registration and monitoring email \"from\" to \"noreply\" addresses",
+    "ticket": "PN-196",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-196",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-188 no more sofort payments: mark classes as Deprecated",
+    "ticket": "PN-188",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-188",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-188 new AGB (no more sofort payment)",
+    "ticket": "PN-188",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-188",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-107 for some reason this is required. otherwise only the genios-core module appears in IntelliJ!",
+    "ticket": "PN-107",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-107",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-107 bcg new secret key",
+    "ticket": "PN-107",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-107",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-187 FAZ Counter start date changed to June 2024",
+    "ticket": "PN-187",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-187",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-187 FAZ Counter start date changed to June 2024",
+    "ticket": "PN-187",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-187",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-170 change email address for internal faz registration emails",
+    "ticket": "PN-170",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-170",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-170 change email address for internal faz registration emails",
+    "ticket": "PN-170",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-170",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-118: remove property for deleted column",
+    "ticket": "PN-118",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-118",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-174: FAZ consortium drop down - cherry pick FUNKTIONEN-12274 + small changes",
+    "ticket": "PN-174",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-174",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-118: removing extra code that isn't being used.",
+    "ticket": "PN-118",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-118",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-118: paid document string not going in the dsgvo_solution_user_cleanup table.",
+    "ticket": "PN-118",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-118",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-161: FAZ invoice address change",
+    "ticket": "PN-161",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-161",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PE-4: persistSessionBasedDocs",
+    "ticket": "PE-4",
+    "link": "https://gbi-genios.atlassian.net/browse/PE-4",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-91: hidden link back to search",
+    "ticket": "PN-91",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-91",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-152: FazCorp -- Allow domain without \"www\" for solution mapping",
+    "ticket": "PN-152",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-152",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-146: FAZ - Remove F+ from Seitenarchiv selection",
+    "ticket": "PN-146",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-146",
+    "project": "geniosweb"
+  },
+  {
+    "title": "Revert \"PN-85: try to get ip from x-forwarded-for header\"",
+    "ticket": "PN-85",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-85",
+    "project": "geniosweb"
+  },
+  {
+    "title": "Revert \"PN-85: logs\"",
+    "ticket": "PN-85",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-85",
+    "project": "geniosweb"
+  },
+  {
+    "title": "Revert \"PN-85: logs\"",
+    "ticket": "PN-85",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-85",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-85: logs",
+    "ticket": "PN-85",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-85",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-85: logs",
+    "ticket": "PN-85",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-85",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-85: try to get ip from x-forwarded-for header",
+    "ticket": "PN-85",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-85",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-107 new Lecturio password",
+    "ticket": "PN-107",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-107",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-107 new movingImage password (is for a short time valid in parallel with old user/pw so can be deployed anytime)",
+    "ticket": "PN-107",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-107",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-138: pdf issue",
+    "ticket": "PN-138",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-138",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-138: pdf issue",
+    "ticket": "PN-138",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-138",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-138: pdf issue",
+    "ticket": "PN-138",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-138",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-31: FAZ Archiv -- renew terms & conditions",
+    "ticket": "PN-31",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-31",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-117 returned value to enum, so no exception happens in solution frontend at backoffice",
+    "ticket": "PN-117",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-117",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-97 new CRIF password",
+    "ticket": "PN-97",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-97",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-96 deleted Tilasto from geniosWeb navigation",
+    "ticket": "PN-96",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-96",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-95 disabling suggest",
+    "ticket": "PN-95",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-95",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-89 deleted one line from externalPopup register form",
+    "ticket": "PN-89",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-89",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-95 disabling suggest",
+    "ticket": "PN-95",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-95",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-77 new keys/secrets ubermetrics + creditreform",
+    "ticket": "PN-77",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-77",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-80: parse date issue",
+    "ticket": "PN-80",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-80",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-77 new keys/secrets creditsafe + dubDirectPlus",
+    "ticket": "PN-77",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-77",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-75 new info from Herr Siebel. no need to use the http basic auth to get the JSON.",
+    "ticket": "PN-75",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-75",
+    "project": "geniosweb"
+  },
+  {
+    "title": "PN-79: fixing the logo path",
+    "ticket": "PN-79",
+    "link": "https://gbi-genios.atlassian.net/browse/PN-79",
+    "project": "geniosweb"
+  }
+]
