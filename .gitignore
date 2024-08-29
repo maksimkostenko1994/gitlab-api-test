@@ -3,3 +3,4 @@ test-scripts.iml
 node_modules
 dist
 .idea
+.env
